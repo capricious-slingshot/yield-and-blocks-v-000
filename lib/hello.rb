@@ -1,7 +1,7 @@
 def hello_t(array)
 	array.each do |n|
 		puts "#{n}"
-	end|
+	end
   # if block_given?
   #
 	# else
